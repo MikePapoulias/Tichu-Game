@@ -1,0 +1,32 @@
+#include "helpers.h"
+#include "player.h"
+
+int numberOfPlayersThatHaveNoCardsLeft(Player players[]){
+    // TODO: Implement this function
+    int num=0;
+    for(int i=0; i<4; i++)
+    {
+        if (players[i].hand.getCardCount()==0)
+            num++;
+    }
+    return num;
+
+}
+
+bool lastThreePlayersPassedOrHaveNoCardsLeft(Player players[], int playerTurn){
+    // TODO: Implement this fun
+
+    int i;
+    int x=0;
+    for(i=0;i<4;i++){
+        if(i!=playerTurn && (players[i].hasStatus("PASSED")==true || players[i].hasNoCardsLeft()==true))
+            x++;
+    }
+
+    if(x==3)
+        return true;
+    else
+        return false;
+
+
+}

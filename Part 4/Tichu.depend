@@ -1,0 +1,153 @@
+# depslib dependency file v1.0
+1590237549 source:c:\users\pc\desktop\Μαθήματα 2ου εξαμήνου\c++\4η Εργασία Αντικειμενοστραφούς\card.cpp
+	<sstream>
+	"card.h"
+
+1590237408 c:\users\pc\desktop\Μαθήματα 2ου εξαμήνου\c++\4η Εργασία Αντικειμενοστραφούς\card.h
+	<string>
+
+1591004095 source:c:\users\pc\desktop\Μαθήματα 2ου εξαμήνου\c++\4η Εργασία Αντικειμενοστραφούς\cardimplementations.cpp
+	"card.h"
+
+1590198867 source:c:\users\pc\desktop\Μαθήματα 2ου εξαμήνου\c++\4η Εργασία Αντικειμενοστραφούς\combination.cpp
+	"combination.h"
+
+1590198719 c:\users\pc\desktop\Μαθήματα 2ου εξαμήνου\c++\4η Εργασία Αντικειμενοστραφούς\combination.h
+	<string>
+	"card.h"
+
+1590158407 source:c:\users\pc\desktop\Μαθήματα 2ου εξαμήνου\c++\4η Εργασία Αντικειμενοστραφούς\deck.cpp
+	<algorithm>
+	"deck.h"
+	"shuffler.h"
+
+1590106935 c:\users\pc\desktop\Μαθήματα 2ου εξαμήνου\c++\4η Εργασία Αντικειμενοστραφούς\deck.h
+	"card.h"
+
+1591347984 c:\users\pc\desktop\Μαθήματα 2ου εξαμήνου\c++\4η Εργασία Αντικειμενοστραφούς\shuffler.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1590191945 source:c:\users\pc\desktop\Μαθήματα 2ου εξαμήνου\c++\4η Εργασία Αντικειμενοστραφούς\game.cpp
+	<iostream>
+	"game.h"
+
+1590191905 c:\users\pc\desktop\Μαθήματα 2ου εξαμήνου\c++\4η Εργασία Αντικειμενοστραφούς\game.h
+	"table.h"
+	"deck.h"
+	"player.h"
+
+1590159776 c:\users\pc\desktop\Μαθήματα 2ου εξαμήνου\c++\4η Εργασία Αντικειμενοστραφούς\table.h
+	"combination.h"
+
+1590358667 c:\users\pc\desktop\Μαθήματα 2ου εξαμήνου\c++\4η Εργασία Αντικειμενοστραφούς\player.h
+	<string>
+	"hand.h"
+	"table.h"
+
+1590196997 c:\users\pc\desktop\Μαθήματα 2ου εξαμήνου\c++\4η Εργασία Αντικειμενοστραφούς\hand.h
+	<string>
+	"combination.h"
+
+1590197426 source:c:\users\pc\desktop\Μαθήματα 2ου εξαμήνου\c++\4η Εργασία Αντικειμενοστραφούς\hand.cpp
+	<iostream>
+	<sstream>
+	"hand.h"
+	"card.h"
+	"combination.h"
+
+1590346498 source:c:\users\pc\desktop\Μαθήματα 2ου εξαμήνου\c++\4η Εργασία Αντικειμενοστραφούς\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"table.h"
+	"deck.h"
+	"player.h"
+	"game.h"
+
+1590330868 source:c:\users\pc\desktop\Μαθήματα 2ου εξαμήνου\c++\4η Εργασία Αντικειμενοστραφούς\player.cpp
+	<cstdlib>
+	<iostream>
+	"player.h"
+	"shuffler.h"
+
+1590159772 source:c:\users\pc\desktop\Μαθήματα 2ου εξαμήνου\c++\4η Εργασία Αντικειμενοστραφούς\table.cpp
+	"table.h"
+
+1590230349 source:c:\users\user\desktop\ΣΧΟΛΗ\Μαθήματα 2ου Εξαμήνου\c++\4η Εργασία Αντικειμενοστραφούς\card.cpp
+	<sstream>
+	"card.h"
+
+1590230208 c:\users\user\desktop\ΣΧΟΛΗ\Μαθήματα 2ου Εξαμήνου\c++\4η Εργασία Αντικειμενοστραφούς\card.h
+	<string>
+
+1590996895 source:c:\users\user\desktop\ΣΧΟΛΗ\Μαθήματα 2ου Εξαμήνου\c++\4η Εργασία Αντικειμενοστραφούς\cardimplementations.cpp
+	"card.h"
+
+1590191667 source:c:\users\user\desktop\ΣΧΟΛΗ\Μαθήματα 2ου Εξαμήνου\c++\4η Εργασία Αντικειμενοστραφούς\combination.cpp
+	"combination.h"
+
+1590191519 c:\users\user\desktop\ΣΧΟΛΗ\Μαθήματα 2ου Εξαμήνου\c++\4η Εργασία Αντικειμενοστραφούς\combination.h
+	<string>
+	"card.h"
+
+1590151207 source:c:\users\user\desktop\ΣΧΟΛΗ\Μαθήματα 2ου Εξαμήνου\c++\4η Εργασία Αντικειμενοστραφούς\deck.cpp
+	<algorithm>
+	"deck.h"
+	"shuffler.h"
+
+1590099735 c:\users\user\desktop\ΣΧΟΛΗ\Μαθήματα 2ου Εξαμήνου\c++\4η Εργασία Αντικειμενοστραφούς\deck.h
+	"card.h"
+
+1591340784 c:\users\user\desktop\ΣΧΟΛΗ\Μαθήματα 2ου Εξαμήνου\c++\4η Εργασία Αντικειμενοστραφούς\shuffler.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1590184745 source:c:\users\user\desktop\ΣΧΟΛΗ\Μαθήματα 2ου Εξαμήνου\c++\4η Εργασία Αντικειμενοστραφούς\game.cpp
+	<iostream>
+	"game.h"
+
+1590184705 c:\users\user\desktop\ΣΧΟΛΗ\Μαθήματα 2ου Εξαμήνου\c++\4η Εργασία Αντικειμενοστραφούς\game.h
+	"table.h"
+	"deck.h"
+	"player.h"
+
+1590152576 c:\users\user\desktop\ΣΧΟΛΗ\Μαθήματα 2ου Εξαμήνου\c++\4η Εργασία Αντικειμενοστραφούς\table.h
+	"combination.h"
+
+1590351467 c:\users\user\desktop\ΣΧΟΛΗ\Μαθήματα 2ου Εξαμήνου\c++\4η Εργασία Αντικειμενοστραφούς\player.h
+	<string>
+	"hand.h"
+	"table.h"
+
+1590189797 c:\users\user\desktop\ΣΧΟΛΗ\Μαθήματα 2ου Εξαμήνου\c++\4η Εργασία Αντικειμενοστραφούς\hand.h
+	<string>
+	"combination.h"
+
+1590190226 source:c:\users\user\desktop\ΣΧΟΛΗ\Μαθήματα 2ου Εξαμήνου\c++\4η Εργασία Αντικειμενοστραφούς\hand.cpp
+	<iostream>
+	<sstream>
+	"hand.h"
+	"card.h"
+	"combination.h"
+
+1590339298 source:c:\users\user\desktop\ΣΧΟΛΗ\Μαθήματα 2ου Εξαμήνου\c++\4η Εργασία Αντικειμενοστραφούς\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"table.h"
+	"deck.h"
+	"player.h"
+	"game.h"
+
+1590323668 source:c:\users\user\desktop\ΣΧΟΛΗ\Μαθήματα 2ου Εξαμήνου\c++\4η Εργασία Αντικειμενοστραφούς\player.cpp
+	<cstdlib>
+	<iostream>
+	"player.h"
+	"shuffler.h"
+
+1590152572 source:c:\users\user\desktop\ΣΧΟΛΗ\Μαθήματα 2ου Εξαμήνου\c++\4η Εργασία Αντικειμενοστραφούς\table.cpp
+	"table.h"
+
